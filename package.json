@@ -1,0 +1,24 @@
+{
+  "name": "rtspipcam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigercihan/rtspipcam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tigercihan/rtspipcam/issues"
+  },
+  "homepage": "https://github.com/tigercihan/rtspipcam#readme",
+  "dependencies": {
+    "node-onvif": "^0.1.7",
+    "node-rtsp-stream": "0.0.9"
+  }
+}
